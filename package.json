@@ -1,0 +1,15 @@
+{
+  "name": "signer",
+  "version": "0.0.1",
+  "description": "Sign a transaction with a given wallet",
+  "main": "signer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Mahe",
+  "license": "MIT",
+  "dependencies": {
+    "ethjs-signer": "^0.1.1",
+    "ethjs-util": "^0.1.4"
+  }
+}

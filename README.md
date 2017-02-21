@@ -5,13 +5,13 @@ It will also verify that the transaction data is for the defined contract addres
 
 ## Install
 
-```
+```console
 npm install
 ```
 
 ### Example
 
-```
+```node
 'use strict';
 
 const Signer = require('signer')
